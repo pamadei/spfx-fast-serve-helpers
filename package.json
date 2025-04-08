@@ -51,7 +51,7 @@
     "del": "6.0.0",
     "eslint-webpack-plugin": "2.5.4",
     "file-loader": "6.2.0",
-    "fork-ts-checker-webpack-plugin": "6.4.0",
+    "fork-ts-checker-webpack-plugin": "9.1.0",
     "get-port": "5.1.1",
     "globby": "11.0.3",
     "kill-port": "1.6.1",
